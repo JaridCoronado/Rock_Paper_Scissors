@@ -1,0 +1,6 @@
+﻿  GameObjects.cpp
+C:\Users\Jarid\OneDrive\Games I Made\Rock_Paper_Scissors\Rock_Paper_Scissors\GameObjects.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  main.cpp
+C:\Users\Jarid\OneDrive\Games I Made\Rock_Paper_Scissors\Rock_Paper_Scissors\main.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  Rock_Paper_Scissors.vcxproj -> C:\Users\Jarid\OneDrive\Games I Made\Rock_Paper_Scissors\x64\Debug\Rock_Paper_Scissors.exe
