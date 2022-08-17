@@ -10,6 +10,7 @@ namespace RPS_Game
 	class GameObjects
 	{
 	public:
+
 		//Getters, cause I'm a noob like that
 		int Rock() const { return *ptrRock; }
 
@@ -52,6 +53,13 @@ namespace RPS_Game
 		void Print(string p) {
 			*ptrMessage = p;
 			cout << *ptrMessage;
+		}
+
+		void  DeletePoints() {
+			delete ptrComputerPoints;
+			delete ptrPlayerPoints;
+			delete ptrPlayerChoice;
+			delete ptrMessage;
 		}
 
 	private:
